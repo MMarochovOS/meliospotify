@@ -1,7 +1,8 @@
 {
-    "current-theme": "light",
+    "current-theme": "melio",
     "templates": {
         "light": "spotify.html.j2",
-        "dark": "spotify-dark.html.j2"
+        "dark": "spotify-dark.html.j2",
+        "melio": "spotify-melio.html.j2"
     }
 }
